@@ -31,3 +31,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+[Personal Site](https://ericktornero.github.io/site/)
