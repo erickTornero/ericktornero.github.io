@@ -1,0 +1,11 @@
+
+http://localhost:4000/erick/blog/
+http://localhost:4000/erick/cv/
+http://localhost:4000/erick/feed.xml
+http://localhost:4000/erick/
+http://localhost:4000/erick/css/main.css
+http://localhost:4000/erick/misc/
+http://localhost:4000/erick/research/
+http://localhost:4000/erick/sitemap.txt
+
+http://localhost:4000/erick/blog/2016/02/08/Chewbaca-is-talking-in-his-sleep
